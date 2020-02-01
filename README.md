@@ -1,4 +1,4 @@
-<h1 align="center">Blunder</h1>
+<h1 align="center">Simple Keylogger</h1>
 <h6 align="center">A Simple Keylogger with the ability of FTP Transfer and Local Storage</h6>
 
 ## Preface
